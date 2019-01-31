@@ -6,9 +6,9 @@
   "main": "src/index.js",
   "dependencies": {
     "overmind": "latest",
-    "overmind-react": "latest",
-    "react": "16.5.2",
-    "react-dom": "16.5.2",
+    "overmind-react": "^16.0.0",
+    "react": "^16.8.0-alpha.1",
+    "react-dom": "^16.8.0-alpha.1",
     "react-scripts": "2.0.3"
   },
   "devDependencies": {},
