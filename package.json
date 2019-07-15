@@ -5,11 +5,11 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "overmind": "latest",
-    "overmind-react": "^16.0.0",
-    "react": "^16.8.0-alpha.1",
-    "react-dom": "^16.8.0-alpha.1",
-    "react-scripts": "2.0.3"
+    "overmind": "19.0.1",
+    "overmind-react": "20.0.1",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.1"
   },
   "devDependencies": {},
   "scripts": {
